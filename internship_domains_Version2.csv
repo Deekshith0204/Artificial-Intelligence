@@ -1,0 +1,11 @@
+domain,description,required_skills
+Data Science,Analyze datasets, build models, interpret data.,Python, Data Analysis, Statistics
+Web Development,Develop interactive web applications using modern frameworks.,HTML, CSS, JavaScript, React
+Cyber Security,Protect systems and networks from digital attacks.,Networking, Security, Python
+Mobile App Development,Create applications for Android and iOS devices.,Java, Kotlin, Swift, UI/UX
+Machine Learning,Build intelligent systems using algorithms and data.,Python, TensorFlow, Scikit-learn, Math
+Cloud Computing,Work with cloud platforms and services.,AWS, Azure, Cloud Architecture
+UI/UX Design,Design and improve user interfaces and experiences.,Figma, Sketch, Adobe XD, Creativity
+Blockchain,Develop decentralized applications and smart contracts.,Solidity, Ethereum, Cryptography
+IoT (Internet of Things),Connect and manage smart devices and sensors.,Embedded Systems, Arduino, C/C++
+Game Development,Create engaging video games for various platforms.,Unity, C#, Game Design
